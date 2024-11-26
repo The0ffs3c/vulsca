@@ -10,6 +10,7 @@ Features
     Detailed Reporting: Generate detailed vulnerability reports in various formats (HTML, JSON, etc.).
     Integration Ready: Works with CI/CD pipelines for continuous vulnerability monitoring.
     Cross-Platform: Compatible with Windows, macOS, and Linux.
+    The saving file can be edit according the need , depend upon what type of output file you need
 
 Requirements
 
